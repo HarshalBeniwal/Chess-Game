@@ -1,6 +1,10 @@
 # CHESS GAME - Socket.io
 
-
+Implemented a end to end chess game web page.
+Frontend is implemented using ReactJS , Used Chess.js for logic building and react-chessboard library for rendering the board.
+For backend Express and NodeJS is used 
+Socket.io is used to establish connection and connect user to a single room
+Used Technologies like ReactJs ,Socket.io , Chess.js , Express , NodeJs .
 
 
 ## REQUEST RESPONSE CYCLE
